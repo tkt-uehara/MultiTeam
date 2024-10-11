@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:MOBAゲーム/Assets/Chara,Mob/Materials/Giant01_Texture01-BaseColor 1.mat.meta
+guid: feab0448169972341b46cd5545c73f01
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+========
+guid: 6ec617aeeb014b0408ecace1f853a7de
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+>>>>>>>> 578d4077deac95f93bd0e7bc6039ed096259790b:MOBAゲーム/Assets/Scenes/minion_rest/NavMesh-NavMesh Surface 2.asset.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
